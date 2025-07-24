@@ -1,6 +1,6 @@
 
 
-# Bienvenido a mi Repositorio de Automatización y Aprendizaje 🚀
+# Bienvenido a mi Repositorio de Aprendizaje 🚀
 
 ¡Hola! Este es mi espacio personal en GitHub, donde comparto **scripts, automatizaciones y proyectos** que desarrollo como parte de mi pasión por aprender, experimentar y dominar nuevas habilidades en el mundo de la tecnología. Aquí encontrarás una colección de **laboratorios caseros** diseñados para explorar, probar y perfeccionar conocimientos en diversas áreas de IT.
 
